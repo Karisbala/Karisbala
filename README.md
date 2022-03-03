@@ -6,7 +6,7 @@
 ### Happy to meet you! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Karisbala.Karisbala)
 
 I am a software engineering student with a passion for automation and backend development, and finding ways to improve the world with my talents and passions! 
-<img align="right" alt="GIF" src="https://github.com/ellarekow/ellarekow/blob/main/ellarekowgif" width="408" height="318" />
+<img align="right" alt="GIF" src="https://github.com/Karisbala/Karisbala/blob/main/karisbala.gif" width="408" height="318" />
 
 
 **What've I been up to this week?** 
