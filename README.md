@@ -8,9 +8,7 @@
 <img align="right" alt="GIF" src="https://github.com/Karisbala/Karisbala/blob/main/karisbala.gif" width="408" height="318" />
 
 
-**What've I been up to this week?** 
+**What've I been up to this month?** 
 
 <!--START_SECTION:waka-->
-
 <!--END_SECTION:waka-->
-
