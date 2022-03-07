@@ -5,8 +5,6 @@
 [![telegram](https://img.shields.io/badge/Telegram-Chat-blue&?logo=telegram)](https://t.me/umenyalapki)
 
 ### Happy to meet you! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Karisbala.Karisbala)
- 
-<> (<img align="right" alt="GIF" src="https://github.com/Karisbala/Karisbala/blob/main/karisbala.gif" width="408" height="318" />)
 
 
 **What've I been up to this month?** 
