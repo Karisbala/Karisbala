@@ -12,9 +12,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-Python     1 hr 13 mins    ███████████████████████░░   91.71 %
-Markdown   5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.87 %
-Text       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
+From: 09 February 2022 - To: 11 March 2022
+
+Total Time: 1 hr 20 mins
+
+Python     1 hr 13 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀   91.73 %
+Markdown   5 mins          ⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.85 %
+Text       1 min           ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.42 %
 ```
 
 <!--END_SECTION:waka-->
