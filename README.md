@@ -7,7 +7,7 @@
 ### Happy to meet you! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Karisbala.Karisbala)
 
 
-**What've I been up to this month?** 
+**What've I been up to this week?** 
 
 <!--START_SECTION:waka-->
 
