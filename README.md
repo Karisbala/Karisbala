@@ -12,12 +12,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 03 April 2022 - To: 10 April 2022
+From: 04 April 2022 - To: 11 April 2022
 
-Total Time: 1 hr 57 mins
+Total Time: 3 hrs 56 mins
 
-Python     1 hr 52 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀   95.90 %
-Markdown   4 mins          ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.10 %
+Python     3 hrs 51 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦   97.96 %
+Markdown   4 mins          ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.04 %
 ```
 
 <!--END_SECTION:waka-->
