@@ -1,8 +1,8 @@
-Hi 👋 My name is Issayev Abzal
+Hi 👋 I am Issayev Abzal
 ==============================
 
-Software Developer
-------------------
+I am starting my journey to become Software Developer!
+------------------------------------------------------
 
 *   🌍  I'm based in Almaty
 *   ✉️  You can contact me at [issayev.abzal@gmail,com](mailto:issayev.abzal@gmail,com)
@@ -48,9 +48,5 @@ Software Developer
 **What've I been up to this week?** 
 
 <!--START_SECTION:waka-->
-
-```text
-No activity tracked
-```
 
 <!--END_SECTION:waka-->
