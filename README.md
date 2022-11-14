@@ -49,4 +49,8 @@ I am starting my journey to become Software Developer!
 
 <!--START_SECTION:waka-->
 
+```text
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
