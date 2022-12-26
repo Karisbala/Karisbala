@@ -50,7 +50,7 @@ I am starting my journey to become Software Developer!
 <!--START_SECTION:waka-->
 
 ```text
-From: 17 December 2022 - To: 24 December 2022
+From: 18 December 2022 - To: 25 December 2022
 
 Total Time: 9 mins
 
