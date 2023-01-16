@@ -50,7 +50,13 @@ I am starting my journey to become Software Developer!
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 08 January 2023 - To: 15 January 2023
+
+Total Time: 1 hr 51 mins
+
+HTML   1 hr 9 mins     ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀   61.74 %
+CSS    42 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   37.81 %
+XML    0 secs          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.45 %
 ```
 
 <!--END_SECTION:waka-->
