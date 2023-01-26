@@ -20,12 +20,7 @@ I am starting my journey to become Software Developer!
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Karisbala&theme=vision-friendly-dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Karisbala&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
----
 [![](https://visitcount.itsvg.in/api?id=Karisbala&icon=2&color=3)](https://visitcount.itsvg.in)
-
-<b>Top Repositories</b>
-
-[![Top Repositories](https://github-readme-stats.vercel.app/api/pin/?username=karisbala&theme=vision-friendly-dark&repo=Projects)](https://github.com/Karisbala/Projects)
 
 ### Happy to meet you! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Karisbala.Karisbala)
 
