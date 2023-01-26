@@ -25,7 +25,7 @@ I am starting my journey to become Software Developer!
 
 <b>Top Repositories</b>
 
-[![Top Repositories](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Repositories](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&theme=vision-friendly-dark&hide_border=true&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Happy to meet you! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Karisbala.Karisbala)
 
