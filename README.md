@@ -25,14 +25,12 @@ I am starting my journey to become Software Developer!
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/Karisbala/Projects" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Karisbala&repo=Projects&title_color=84cc16&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+[![Top Repositories](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Happy to meet you! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Karisbala.Karisbala)
 
 
 **What've I been up to this week?** 
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=karisbala)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
 
