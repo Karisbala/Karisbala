@@ -28,7 +28,7 @@ I am starting my journey to become Software Developer!
 <!--START_SECTION:waka-->
 
 ```text
-From: 24 January 2023 - To: 31 January 2023
+From: 25 January 2023 - To: 01 February 2023
 
 Total Time: 4 hrs 13 mins
 
