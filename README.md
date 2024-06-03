@@ -28,7 +28,7 @@ I am starting my journey to become Software Developer!
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 May 2024 - To: 31 May 2024
+From: 25 May 2024 - To: 01 June 2024
 
 Total Time: 0 secs
 
